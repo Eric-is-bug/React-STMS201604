@@ -3,7 +3,6 @@ module.exports = {
   context: __dirname,
   entry: {
     jsx: "./src/index.jsx",
-    css: "./src/material.cyan-pink.min.css",
     html: "./src/index.html",
   },
 
